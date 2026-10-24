@@ -1,5 +1,5 @@
 
-# Scrapping Data
+# Automated News Data Scrapping
 
 Kode program ini digunakan untuk melakukan scraping data pada website berita Indonesia dengan tujuan mengambil data informasi berita secara otomatis. Data yang diambil meliputi sumber berita, judul berita, url, kategori berita, dan waktu pengambilan. Adapun website berita yang diambil datanya adalah sebagai berikut:
 - Detik
