@@ -58,3 +58,7 @@ docker compose up --build
 9. Jika sudah berhasil di download pindahkan file ke Data ingestion -> Upload files to a volume -> sesuikan directorinya masing-masing, setelah itu copy_path dan letakkan di **nrc_path** yang ada pada shell databricks.
 
 9. Setelah data tersedia, pilih Run All pada Databricks untuk menjalankan seluruh kode program.
+
+## Authors
+
+- [@kumaragp](https://github.com/kumaragp)
