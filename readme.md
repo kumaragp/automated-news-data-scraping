@@ -59,6 +59,10 @@ docker compose up --build
 
 9. Setelah data tersedia, pilih Run All pada Databricks untuk menjalankan seluruh kode program.
 
+## Disclaimer
+
+Proses web scraping masih menggunakan library BeautifulSoup yang bekerja dengan mem-parsing struktur HTML website dan mengekstrak informasi berdasarkan elemen atau tag HTML tertentu. Oleh karena itu, pengambilan data bergantung pada struktur halaman website yang tersedia dan dapat mengalami error apabila terjadi perubahan pada struktur HTML, nama elemen, maupun atribut yang digunakan. Jika terjadi perubahan pada struktur website, diperlukan penyesuaian pada kode scraping agar proses pengambilan data dapat kembali berjalan dengan baik.
+
 ## Authors
 
 - [@kumaragp](https://github.com/kumaragp)
