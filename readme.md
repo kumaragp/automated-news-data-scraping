@@ -60,6 +60,7 @@ docker compose up --build
 
 ## Results
 #### Wordclouds
+![Wordclouds](https://github.com/user-attachments/assets/7070ee05-a0aa-4e5d-b902-ba6dcf3f4aee)
 
 #### Term Frequency (TF)
 | Kata    | Frekuensi | Proporsi | Persentase |
